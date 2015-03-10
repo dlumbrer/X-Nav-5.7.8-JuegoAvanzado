@@ -1,3 +1,7 @@
 CACHE MANIFEST
 /js/game.js
-/images/*
+/images/hero.png
+/images/background.png
+/images/stone.png
+/images/princess.png
+/images/monster.png
